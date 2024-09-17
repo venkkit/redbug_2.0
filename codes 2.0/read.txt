@@ -1,0 +1,7 @@
+#codes 2.0 
+
+This version includes 
+    a. Slip number 
+    b. Slip name 
+    c. Campaign tag 
+    d. Slip Greating [msg]
